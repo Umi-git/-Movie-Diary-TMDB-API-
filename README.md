@@ -51,7 +51,7 @@ MSDB is a personal movie database web application where users can browse popular
 ## API
 
 * Movie data is fetched from **The Movie Database (TMDb) API**.
-* 
+
 
 ## Notes
 
